@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "和",
 
 	// 站点 URL
-	site_url: "https://firefly.131231.xyz",
+	site_url: "https://blog.131231.xyz",
 
 	// 站点描述
 	description:
